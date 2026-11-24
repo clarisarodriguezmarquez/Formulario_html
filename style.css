@@ -1,1 +1,56 @@
-.Formulario
+body { background-color: rgba(14, 68, 204, 0.467);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    padding: 30px;
+    border: 2px solid black;
+    
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 50px;
+    border: 2px solid rgb(224, 215, 225);  
+    background-color: black;
+    padding: 30px;
+}
+
+
+h2{
+    color: #191b1c;
+    text-align: center;
+    border-radius: 15px;
+    margin:10px auto;
+    padding: 15px; 
+
+
+}
+
+.Card_body {
+    border: 2px solid black;
+    width: 60px;
+    padding: 30px; 
+    margin: 60px auto;
+    background-color: #ffffff;
+
+}
+.Formulario{
+    border: 2px solid black;
+    width: 200px;
+    padding: 50px; 
+    margin: 100px auto;
+    background-color: #3f1d5fb9;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1,5;
+    margin: 10px auto;
+    padding: 9px; 
+
+    
+
+}
